@@ -219,7 +219,7 @@ The dataset consists of **7 main tables** used to build the purchasing dashboard
 
 ---
 
-<img width="1066" height="572" alt="image" src="https://github.com/user-attachments/assets/d1a7bb62-4599-43b9-be40-acd5b1d48105" />
+<img width="1260" height="704" alt="image" src="https://github.com/user-attachments/assets/b3d92490-3e90-4a00-a513-042d2f830d38" />
 
 ### 2️⃣ Define point of view 
 
