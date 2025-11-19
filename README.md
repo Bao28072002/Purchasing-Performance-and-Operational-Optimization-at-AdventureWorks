@@ -211,15 +211,23 @@ The dataset consists of **7 main tables** used to build the purchasing dashboard
 
 ### 1️⃣ Empathize
 
+<img width="1296" height="729" alt="image" src="https://github.com/user-attachments/assets/fcc7ef5a-4015-4523-979b-61361d88e869" />
 
+<img width="1282" height="722" alt="image" src="https://github.com/user-attachments/assets/d77e0bb5-4a9c-47c5-b5d4-dd951e0fa253" />
+
+<img width="1066" height="572" alt="image" src="https://github.com/user-attachments/assets/d1a7bb62-4599-43b9-be40-acd5b1d48105" />
 
 ### 2️⃣ Define point of view 
 
+<img width="1248" height="691" alt="image" src="https://github.com/user-attachments/assets/ef0f7b2a-c24e-4b44-b395-a9eaca530c3d" />
 
+<img width="1264" height="701" alt="image" src="https://github.com/user-attachments/assets/c525e6f9-79eb-42fb-9d56-732591f53171" />
 
 ### 3️⃣ Ideate
 
+<img width="1270" height="706" alt="image" src="https://github.com/user-attachments/assets/00b607d7-351c-48b7-a55c-df7133c0c56d" />
 
+<img width="1276" height="688" alt="image" src="https://github.com/user-attachments/assets/9c881afd-d42b-4ce6-8745-ca3b5b5c1725" />
 
 ### 4️⃣ Prototype and review
 
