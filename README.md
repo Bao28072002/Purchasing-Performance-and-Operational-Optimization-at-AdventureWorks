@@ -331,7 +331,7 @@ This part is in the dashboard
 #### **5. Preferred Vendor Pipeline**
 - Currently, **91%** of the purchasing pipeline is allocated to **preferred vendors**, ensuring alignment with strategic partners but also requiring close tracking of their performance.
 
-# 🔎 Final Conclusion & Recommendation 
+# 🔎 Final Conclusion & Recommendation
 
 | **Aspect**                     | **Insight**                                                                                                      | **Recommendation**                                                                                       |
 |---------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
