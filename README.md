@@ -243,7 +243,7 @@ This part is in the dashboard
 
 ### 📋 I. Executive Summary
 
-![Image](https://github.com/user-attachments/assets/c75e1741-a924-43c9-bd16-1452abafb41e)
+<img width="1422" height="799" alt="image" src="https://github.com/user-attachments/assets/38eb7226-4a6f-4cc8-97bb-5057a94caf5c" />
 
 ### 📌 Key Findings:
 
@@ -279,7 +279,7 @@ This part is in the dashboard
 
 ### 📈 II. Product Analysis
 
-![Image](https://github.com/user-attachments/assets/da07a0f4-da91-4480-9d7d-a9b89e608562)
+<img width="1428" height="805" alt="image" src="https://github.com/user-attachments/assets/1fa783e6-5f18-47bc-a738-76d72dc20038" />
 
 ### 📌 Key Findings:
 
@@ -311,7 +311,7 @@ This part is in the dashboard
 
 ### III. 🤝 Vendor Performance
 
-![Image](https://github.com/user-attachments/assets/27a04562-6258-4915-bc6a-f7ce96745722)
+<img width="1427" height="797" alt="image" src="https://github.com/user-attachments/assets/d3a3233d-9f07-4339-8533-417208b6166a" />
 
 ### 📌 Key Findings:
 
