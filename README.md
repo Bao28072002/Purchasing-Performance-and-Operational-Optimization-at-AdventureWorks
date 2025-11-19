@@ -17,6 +17,8 @@
 
 ---
 
+## 📌 Background & Overview  
+
 **Objective:**
 
 **📖 What is this project about?**
@@ -56,7 +58,7 @@ The project provided insights into **order handling**, **cost control**, and **v
 #### Outcome:
 The project enabled data-driven decisions, improving operational efficiency, cost-effectiveness, and vendor management.
 
-## 📂 Dataset Description & Data Structure
+# 📂 Dataset Description & Data Structure
 
 ### **📌 Data Source** 
 - **Source**: Kaggle - Dataset of AdventureWorks
@@ -205,7 +207,7 @@ The dataset consists of **7 main tables** used to build the purchasing dashboard
 | `Dim_Product_Product`          | `Dim_Product_ProductTaxonomy`    | `ProductSubcategoryID`      | Many-to-One (each product belongs to one subcategory)      |
 | `Fact_Product_Inventory`       | `Dim_Product_Product`            | `ProductID`                 | Many-to-One (each inventory record linked to a product)    |
 
-## 🧠 Design Thinking Process
+# 🧠 Design Thinking Process
 
 ### 1️⃣ Empathize
 
@@ -231,7 +233,7 @@ The dataset consists of **7 main tables** used to build the purchasing dashboard
 
 This part is in the dashboard
 
-## 📊 Key Insights & Visualizations
+# 📊 Key Insights & Visualizations
 
 ### 🔍 Dashboard Preview
 
@@ -329,7 +331,7 @@ This part is in the dashboard
 #### **5. Preferred Vendor Pipeline**
 - Currently, **91%** of the purchasing pipeline is allocated to **preferred vendors**, ensuring alignment with strategic partners but also requiring close tracking of their performance.
 
-## 🔎 Final Conclusion & Recommendation 
+# 🔎 Final Conclusion & Recommendation 
 
 | **Aspect**                     | **Insight**                                                                                                      | **Recommendation**                                                                                       |
 |---------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
