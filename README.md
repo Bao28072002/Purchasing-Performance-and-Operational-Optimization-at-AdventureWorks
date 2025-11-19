@@ -8,12 +8,12 @@
 
 **Tools Used:** Power BI
 
-## Table of Contents
-1. [📌 Background & Overview](#background--overview)
-2. [📂 Dataset Description & Data Structure](#dataset-description--data-structure)
-3. [🧠 Design Thinking Process](#design-thinking-process)
-4. [📊 Key Insights & Visualizations](#key-insights--visualizations)
-5. [🔎 Final Conclusion & Recommendation](#final-conclusion--recommendation)
+## 📑 Table of Contents  
+1. [📌 Background & Overview](#-background--overview)  
+2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)  
+3. [🧠 Design Thinking Process](#-design-thinking-process)  
+4. [📊 Key Insights & Visualizations](#-key-insights--visualizations)  
+5. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
 
 ---
 
