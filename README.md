@@ -1,10 +1,10 @@
 # Purchasing Performance and Operational Optimization at AdventureWorks | Power BI
 
-![Image](https://github.com/user-attachments/assets/3cbe74ea-1dbf-43c0-a860-fd5e16151c35)
+<img width="3999" height="3999" alt="image" src="https://github.com/user-attachments/assets/e1ba8a09-734b-44c8-af94-e996f824482e" />
 
 **Author:** Lê Gia Bảo
 
-**Date:** July 2025
+**Date:** August 2025
 
 **Tools Used:** Power BI
 
@@ -23,27 +23,26 @@
 
 **📖 What is this project about?**
 
-This project analyzes purchasing activities at **AdventureWorks** to support better operational decisions. The Power BI dashboard focuses on:
+This project analyzes purchasing activities at **AdventureWorks** to support data-driven operational decisions. The Power BI dashboard focuses on two main areas:
 
-- **Purchasing Performance**: Monitoring back order rates to ensure timely and sufficient supply for manufacturing needs.  
-- **Cost Optimization**: Evaluating average purchase order costs to identify savings opportunities and improve procurement efficiency.
-
+- **Purchasing Performance** – Tracking back-order rates to ensure timely and sufficient supply for production.  
+- **Cost Optimization** – Evaluating average purchase order costs to identify saving opportunities and improve procurement efficiency.
 
 **👤 Who is this project for?**
 
 This dashboard is designed for key stakeholders involved in the purchasing process at **AdventureWorks**, including:
 
-- **Purchasing Manager**: To monitor supplier performance, order fulfillment, and spot procurement issues early.  
-- **Purchasing Executive**: To track purchasing KPIs, ensure compliance with procurement strategies, and manage day-to-day operations efficiently.  
-- **Board of Directors (BOD)**: To gain high-level insights into purchasing efficiency and cost control for strategic decision-making.
+- **Purchasing Manager** – Monitor supplier performance, order fulfillment, and detect issues early.  
+- **Purchasing Executive** – Track purchasing KPIs, ensure compliance with procurement strategy, and manage day-to-day operations.  
+- **Board of Directors (BOD)** – Access high-level insights into purchasing efficiency and cost control for strategic decisions.
 
 **❓Business Questions:**
 
-- Are we experiencing high back order rates that may impact production timelines?  
-- How cost-effective are our purchase orders across different vendors and materials?  
-- Which vendors are consistently delivering on time and within budget?  
-- Are there any unusual spikes in purchasing cost that need further investigation?  
-- How can we improve procurement planning to reduce delays and optimize costs?
+- Are back-order rates high enough to affect production timelines?  
+- How cost-efficient are purchase orders across different vendors and materials?  
+- Which vendors consistently deliver on time and within budget?  
+- Are there unusual spikes in purchasing costs that require deeper investigation?  
+- What improvements can strengthen procurement planning to reduce delays and optimize costs?
 
 **🎯Project Outcome:**
 
@@ -194,7 +193,8 @@ The dataset consists of **7 main tables** used to build the purchasing dashboard
 
 #### 2️⃣ Data Relationships:
 
-![Image](https://github.com/user-attachments/assets/5d697c87-7628-4d70-b1d4-3163e44ae1fc)
+<img width="1318" height="811" alt="image" src="https://github.com/user-attachments/assets/61b12c90-5a5a-4de6-8da9-222f74e12564" />
+
 
 | **From Table**                  | **To Table**                     | **Join Key**                | **Relationship Type**                                      |
 |--------------------------------|----------------------------------|-----------------------------|------------------------------------------------------------|
@@ -211,23 +211,15 @@ The dataset consists of **7 main tables** used to build the purchasing dashboard
 
 ### 1️⃣ Empathize
 
-![Image](https://github.com/user-attachments/assets/e69224c7-8272-45b7-9341-2e73aee0be8b)
 
-![Image](https://github.com/user-attachments/assets/dfd3a807-480c-4382-b57d-71744fdf4e92)
-
-![Image](https://github.com/user-attachments/assets/92e0d009-b0fe-441d-9901-86ece9a87ca6)
 
 ### 2️⃣ Define point of view 
 
-![Image](https://github.com/user-attachments/assets/9c8b2fd9-4bf6-47cc-878f-802d5f67eb66)
 
-![Image](https://github.com/user-attachments/assets/7328ee67-4acf-4094-9c7e-ce2c322e54fe)
 
 ### 3️⃣ Ideate
 
-![Image](https://github.com/user-attachments/assets/a1596b12-a5c2-4008-95fd-b5f6d80ed7f8)
 
-![Image](https://github.com/user-attachments/assets/a2c1aa14-8610-4927-b839-19261dc8ee31)
 
 ### 4️⃣ Prototype and review
 
@@ -243,35 +235,35 @@ This part is in the dashboard
 
 ### 📌 Key Findings:
 
-#### **1. Total Order, Late Orders and Back Order Rate (%)**
-- Total orders peaked in **May–June** (456 orders). Both **Late Orders** and **Back Order Rate** reached their highest in **June–July (~10.5%)**. Steady decline in these two metrics after August.
+#### 1. Total Orders, Late Orders, and Back Order Rate (%)
+- Orders peaked in **May–June** (456 orders), with **Late Orders** and **Back Order Rate** highest in **June–July (~10.5%)**. Both metrics steadily declined after August.
 
--> **Demand peaks mid-year**, causing strain, but ops performance improves clearly in Q4.
+→ **Mid-year demand spikes** caused pressure, but operational performance improved noticeably in Q4.
 
-#### **2. AVG Purchase Order Cost Trend**
-- Average PO cost fluctuated between **$6.3K and $7.8K**. Peaked in **March**, dropped sharply by **October**. The Last Month (LM) line remains stable around **$7.0K–$7.2K**.
+#### 2. Average Purchase Order Cost Trend
+- Average PO cost ranged between **$6.3K and $7.8K**, peaking in **March** and dropping sharply by **October**. The Last Month (LM) line stayed stable around **$7.0K–$7.2K**.
 
--> PO costs **fluctuate seasonally**, with stronger control toward year-end.
+→ PO costs **fluctuate seasonally**, with better control toward year-end.
 
-#### **3. Cumulative PO Cost and Cumulative PO Count**
-- Cumulative PO Cost steadily increased to **$64M by August**, followed by a sharp drop. This year’s PO count is significantly lower compared to last year.
+#### 3. Cumulative PO Cost and Count
+- Cumulative PO cost rose steadily to **$64M by August**, then declined sharply. This year’s PO count is **lower than last year**.
 
--> Likely shift to batch purchasing, **fewer but larger POs**.
+→ Indicates a shift toward **fewer but larger POs**, likely batch purchasing.
 
-#### **4. Top 3 Vendor Pricing vs Market Average Over Time**
-- **Chicago City** consistently charges higher than **market average** (~35.5 vs 34.3–34.7). **SUPERSALES** and **Custom Framers** offer **lower-than-market** pricing with consistent trends.
+#### 4. Top 3 Vendor Pricing vs Market Average
+- **Chicago City** consistently charges above the market (~35.5 vs 34.3–34.7), while **SUPERSALES** and **Custom Framers** offer **lower-than-market** prices consistently.
 
--> **Heavy spend on higher-cost vendors**, suggesting a strategic choice.
+→ The company **spends heavily on higher-cost vendors**, likely as a strategic decision.
 
-#### **5. Total PO by Month and Category**
-- PO volume peaked in **August**, dropped drastically afterward. The **(Blank)** category dominates, while other categories like Accessories and Components are minimal.
+#### 5. Total PO by Month and Category
+- PO volume peaked in **August** and dropped sharply afterward. The **(Blank)** category dominates; other categories like Accessories and Components are minor.
 
--> **Product classification is incomplete**, limiting detailed tracking.
+→ **Incomplete product classification** limits detailed tracking.
 
-#### **6. Total Purchase Spend by Sub-Category**
-- The sub-category **"(Blank)"** represents the **highest total purchase spend ($22M)**, dwarfing all other defined categories. Categories like **Pedals and Tires and Tubes** show substantial spending **($13M each)**, others like **Jerseys, Shorts, Vests, and Bib-Shorts** have considerably **lower spending ($1M or less).**
+#### 6. Total Purchase Spend by Sub-Category
+- The **"(Blank)"** sub-category accounts for the **largest spend ($22M)**, far exceeding others. Pedals, Tires, and Tubes also have **high spending ($13M each)**, while Jerseys, Shorts, Vests, and Bib-Shorts are **much lower ($1M or less)**.
 
--> Spending is **concentrated in Pedals, Tires, and large unclassified "(Blank)"** amounts
+→ Spending is **heavily concentrated in Pedals, Tires, and large unclassified "(Blank)" items**.
 
 ### 📈 II. Product Analysis
 
@@ -279,31 +271,31 @@ This part is in the dashboard
 
 ### 📌 Key Findings:
 
-#### **1. Purchase Volume & Average Price**
-- Purchase volume peaked during **April–August** with strong growth, then slightly declined in **October**.
-- Meanwhile, the **average purchase price** showed a steady increase from **34.1** to **35.5**, even as volume tapered off.
+#### 1. Purchase Volume & Average Price
+- Purchase volume peaked between **April–August**, then slightly declined in **October**.
+- The **average purchase price** steadily rose from **34.1** to **35.5**, even as volume slowed.
 
-#### **2. Inventory Turnover**
-- **Inventory turnover** reached its highest point in **June–July** (23K), reflecting strong mid-year demand or movement.
-- However, from **September** onward, turnover dropped sharply, indicating slower stock movement.
+#### 2. Inventory Turnover
+- **Inventory turnover** peaked in **June–July** (23K), reflecting strong mid-year demand.
+- From **September** onward, turnover dropped sharply, indicating slower stock movement.
 
-#### **3. SKUs Below Thresholds**
-- Several key SKUs are currently below safety stock thresholds, notably **HL Mountain Frame (145 SKUs)** and **ML Touring Frame (98 SKUs)**.
-- This raises the risk of stockouts if demand picks up or new orders surge.
+#### 3. SKUs Below Thresholds
+- Key SKUs are below safety stock levels, notably **HL Mountain Frame (145 SKUs)** and **ML Touring Frame (98 SKUs)**.
+- This increases the risk of **stockouts** if demand rises or new orders come in.
 
-#### **4. Product & Finished Goods Overview**
-- Finished goods ratio fluctuates between **33–47%**, indicating stock imbalance across product groups.
-- Some groups show lower finished goods levels, which could impact order fulfillment capability.
+#### 4. Product & Finished Goods Overview
+- Finished goods ratio ranges from **33–47%**, showing imbalance across product groups.
+- Low levels in some groups may affect **order fulfillment**.
 
-#### **5. Total Spend by Product**
-- Spending is heavily concentrated on frame lines, with **HL Mountain Frame** leading at **$1.13M**, followed by **ML Touring Frame ($1.01M)**.
-- Other product lines show significantly lower total spend.
+#### 5. Total Spend by Product
+- Spending is concentrated on frame lines: **HL Mountain Frame ($1.13M)** leads, followed by **ML Touring Frame ($1.01M)**.
+- Other product lines have significantly lower spend.
 
-#### **6. PO & Backorder Rate**
-- Although total POs for **Components** are not large, the backorder rate is the highest (**18%**), signaling potential supply gaps from vendors.
+#### 6. PO & Backorder Rate
+- Total POs for **Components** are small, but the **backorder rate is highest (18%)**, suggesting potential vendor supply gaps.
 
-#### **7. Inventory Status**
-- Many SKUs are currently flagged as **Overstocked**, and the system recommends **Pausing Purchasing** for these items to prevent inventory buildup.
+#### 7. Inventory Status
+- Many SKUs are **overstocked**. The system recommends **pausing purchasing** for these items to prevent inventory buildup.
 
 ### III. 🤝 Vendor Performance
 
@@ -311,31 +303,32 @@ This part is in the dashboard
 
 ### 📌 Key Findings:
 
-#### **1. PO Cost Variance & Pareto Analysis**
-- **Superior Bicycles** leads with **20.6%** of total PO cost variance, indicating a significant impact on purchasing costs.
-- The top 5 vendors contribute over **50%** of total variance, showing a high concentration that requires closer cost control.
+#### 1. PO Cost Variance & Pareto Analysis
+- **Superior Bicycles** accounts for **20.6%** of total PO cost variance, having a major impact on purchasing costs.
+- The top 5 vendors contribute over **50%** of total variance, highlighting a high concentration that requires tighter cost control.
 
-#### **2. Vendor Spend & Backorder Risk**
-- **Superior Bicycles** has the highest spend (**$4.56M**) but also shows a high backorder rate (**20%**).
-- **Chicago City Saddles** records the **highest backorder (21.6%)**, signaling a major fulfillment risk.
-- In contrast, vendors like **Victory Bikes (11.8%)** and **Inline Accessories (9.8%)** have lower backorder rates, supporting more stable supply.
+#### 2. Vendor Spend & Backorder Risk
+- **Superior Bicycles** has the highest spend (**$4.56M**) but also a high backorder rate (**20%**).
+- **Chicago City Saddles** has the **highest backorder (21.6%)**, indicating a significant fulfillment risk.
+- Vendors like **Victory Bikes (11.8%)** and **Inline Accessories (9.8%)** show lower backorder rates, supporting more stable supply.
 
-#### **3. Average PO Cost & Price Trend**
-- **Superior Bicycles** also leads in **average PO cost ($45.5K)**, with an upward price trend over the past 6 months.
-- Other vendors such as **Inline Accessories ($34.4K)** maintain more stable pricing, helping mitigate price volatility risks.
+#### 3. Average PO Cost & Price Trend
+- **Superior Bicycles** leads in **average PO cost ($45.5K)** with a rising price trend over the last 6 months.
+- Other vendors, e.g., **Inline Accessories ($34.4K)**, maintain stable pricing, reducing exposure to cost volatility.
 
-#### **4. Vendor Segmentation by Spend & Rating**
-- **Victory Bikes** and **Proseware, Inc.** are positioned favorably with balanced spend and higher ratings.
-- Meanwhile, **Chicago City Saddles** and **Superior Bicycles**, despite their high spend, also carry higher fulfillment risks and need tighter monitoring.
+#### 4. Vendor Segmentation by Spend & Rating
+- **Victory Bikes** and **Proseware, Inc.** show balanced spend and higher ratings, positioning them favorably.
+- **Chicago City Saddles** and **Superior Bicycles**, despite high spend, carry higher fulfillment risks and need closer monitoring.
 
-#### **5. Preferred Vendor Pipeline**
-- Currently, **91%** of the purchasing pipeline is allocated to **preferred vendors**, ensuring alignment with strategic partners but also requiring close tracking of their performance.
+#### 5. Preferred Vendor Pipeline
+- **91%** of the purchasing pipeline is allocated to **preferred vendors**, ensuring strategic alignment but requiring careful performance tracking.
 
 # 🔎 Final Conclusion & Recommendation
 
 | **Aspect**                     | **Insight**                                                                                                      | **Recommendation**                                                                                       |
 |---------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Order & PO Performance**      | - **Peak demand during May–June** creates significant pressure on operations, with **Late Orders and Back Order Rate** reaching their highest in June–July (~10.5%). After August, performance improves. | - Improve **order handling during peak seasons** to reduce pressure. <br> - Optimize **processing for at-risk orders**. |
-| **PO Cost & Trends**            | - **PO costs fluctuate** throughout the year, peaking in March and dropping sharply by October. Despite fluctuations, PO costs stabilize around $7.0K–$7.2K by year-end. | - Continue to **control PO costs** tightly, especially at year-end. <br> - **Monitor cost fluctuations** and adjust procurement strategy proactively to avoid sudden cost spikes. |
-| **Vendor Performance & Risks**  | - Major suppliers like **Chicago City** and **Superior Bicycles** not only have **high costs** but also present significant **backorder risks**, with backorder rates of **21.6% and 20%** respectively, posing delivery risks. | - **Renegotiate prices** with high-cost suppliers or consider switching suppliers. <br> - Improve delivery processes with high backorder suppliers or reassess suppliers if backorder rates remain high. |
-| **Product & Inventory Management** | - **Incomplete product classification** makes it difficult to track spending accurately. The **Blank** product line accounts for the highest spending ($22M), while categories like **Jerseys** and **Vests** show low spending. | - Improve **product classification** for better tracking of spending and to avoid omissions. <br> - Focus on high-spending product lines like **Pedals** and **Tires & Tubes** to optimize resource allocation and purchasing strategy. |
+| **Order & PO Performance**      | - **Demand peaks in May–June**, causing operational strain. **Late Orders** and **Back Order Rate** hit their highest in June–July (~10.5%). Performance improves steadily after August. | - Enhance **order handling during peak periods** to reduce pressure. <br> - Optimize **processing for at-risk orders**. |
+| **PO Cost & Trends**            | - **PO costs fluctuate** seasonally, peaking in March and dropping sharply by October. Costs stabilize around **$7.0K–$7.2K** by year-end. | - Maintain **tight PO cost control**, especially toward year-end. <br> - **Monitor cost trends** and adjust procurement strategy to prevent sudden spikes. |
+| **Vendor Performance & Risks**  | - Key suppliers like **Chicago City** and **Superior Bicycles** have **high costs** and significant **backorder risks** (**21.6% and 20%**), impacting delivery reliability. | - Consider **renegotiating prices** or alternative suppliers for high-cost vendors. <br> - Strengthen **delivery processes** or reassess suppliers if backorder rates remain high. |
+| **Product & Inventory Management** | - **Incomplete product classification** hampers accurate spending tracking. The **Blank** category accounts for **$22M**, while items like **Jerseys** and **Vests** show low spend. | - Improve **product classification** to better track spending. <br> - Focus on **high-spending categories** like Pedals, Tires, and Tubes to optimize purchasing and resource allocation. |
+
