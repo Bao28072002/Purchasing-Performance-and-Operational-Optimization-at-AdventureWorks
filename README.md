@@ -213,7 +213,11 @@ The dataset consists of **7 main tables** used to build the purchasing dashboard
 
 <img width="1296" height="729" alt="image" src="https://github.com/user-attachments/assets/fcc7ef5a-4015-4523-979b-61361d88e869" />
 
+---
+
 <img width="1282" height="722" alt="image" src="https://github.com/user-attachments/assets/d77e0bb5-4a9c-47c5-b5d4-dd951e0fa253" />
+
+---
 
 <img width="1066" height="572" alt="image" src="https://github.com/user-attachments/assets/d1a7bb62-4599-43b9-be40-acd5b1d48105" />
 
